@@ -92,18 +92,7 @@ Predefined model configurations include various sizes of the OPT model family. Y
 - NumPy
 - Argparse
 
-## Citation
 
-If you use this code in your research, please cite our work:
-
-```
-@article{llm_inference_optimization,
-  title={Cost-Effective LLM Inference in Cloud Environments with KV Cache Offloading},
-  author={Your Name},
-  journal={},
-  year={2025}
-}
-```
 
 ## License
 
